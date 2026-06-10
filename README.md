@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Yujia Zhang 👋
 
-<!--
-**z8ri/z8ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing my M.S. in Computer Science at Johns Hopkins University. 
 
-Here are some ideas to get you started:
+**Research Interests:**
+- 🔍 Computer Vision & Industrial Defect Detection
+- 🤖 Multi-modal Perception & Visual Language Systems
+- ⚙️ AI System Engineering & Deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:**
+- **AI/ML:** PyTorch, OpenCV, Transformers
+- **Robotics & Systems:** ROS2, LangChain
+- **Languages:** Python, C++
