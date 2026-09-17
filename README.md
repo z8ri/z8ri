@@ -1,6 +1,6 @@
 ## Yujia Zhang
 
-MS in Computer Science, Johns Hopkins University (Dec 2026). I work on LLM agents with retrieval, and on making vision models hold up under real-world image corruption.
+MS in Computer Science, Johns Hopkins University (Dec 2026). 
 
 **[job-intelligence-agent](https://github.com/z8ri/job-intelligence-agent)** — LangGraph job-search agent: per-query retrieval planning (BM25 / dense / RRF), LLM reranking, rule-based verification, cross-turn preference memory. Python, MySQL, OpenAI API.
 
