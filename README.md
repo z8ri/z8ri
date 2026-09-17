@@ -6,4 +6,4 @@ MS in Computer Science, Johns Hopkins University (Dec 2026). I work on LLM agent
 
 **[vision-robustness-toolkit](https://github.com/z8ri/vision-robustness-toolkit)** — corruption-robust industrial defect classification: physical degradation protocol, wavelet-domain sample-adaptive attention, slice-based robustness evaluation, calibrated selective prediction, ONNX export. PyTorch, 198 CPU-only tests.
 
-Background: BS in CS, ECUST. Earlier work on YOLO-based defect detection and evolutionary optimization for 3D facial animation (CISAT 2024).
+Background: BS in CS, ECUST. 
