@@ -1,4 +1,4 @@
-## 张钰佳 / Yujia Zhang
+## 张予嘉/ Yujia Zhang
 
 约翰霍普金斯大学计算机科学硕士(预计 2026 年 12 月毕业)。
 MS in Computer Science, Johns Hopkins University (Dec 2026).
